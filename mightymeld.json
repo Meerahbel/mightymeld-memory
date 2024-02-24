@@ -1,5 +1,5 @@
 {
-  "run": "npm run dev",
+  "run": "yarn dev",
   "run_prettier": true,
   "include": ["src"],
   "web_server_url": "http://localhost:5555",
